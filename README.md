@@ -2,4 +2,4 @@
 
 Proyecto realizado con React + TailwindCSS
 
-#### Link: 
+#### Link: https://single-price-grid-component-julianv97.vercel.app/
